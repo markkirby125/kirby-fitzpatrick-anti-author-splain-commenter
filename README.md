@@ -2,13 +2,31 @@
 
 Purge apologetic self-justification, intent guessing, and patronizing tone from diffs.
 
+[![Kirby Fitzpatrick Collection](https://img.shields.io/badge/Kirby_Fitzpatrick-Writers_Collection-blue?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+[![Kirby Skills Collection](https://img.shields.io/badge/Kirby_Skills-Collection-purple?style=flat-square&logo=github)](https://github.com/markkirby125/kirby-skills-collection)
+
 ---
+
+## Repo Details
+
+* **Repository**: [https://github.com/markkirby125/kirby-fitzpatrick-anti-author-splain-commenter](https://github.com/markkirby125/kirby-fitzpatrick-anti-author-splain-commenter)
+* **Parent Collection**: [kirby-fitzpatrick-writers-collection](https://github.com/markkirby125/kirby-fitzpatrick-writers-collection)
+* **Master Directory**: [kirby-skills-collection](https://github.com/markkirby125/kirby-skills-collection)
+* **Category**: Code Walkthroughs
+* **Framework Author**: William Fitzpatrick
+* **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
+* **Source Lecture**: "The Silent Dialogue Hack Expert Writers Use to Hook You"
+* **Direct Video URL**: https://www.youtube.com/watch?v=30Ic686MRZU
+
+---
+
 ## Attribution & Provenance
 
 * **Original Framework Author**: William Fitzpatrick
 * **YouTube Channel**: [William Fitzpatrick | Writer Science](https://www.youtube.com/@WriterScience)
 * **Source Lecture**: "The Silent Dialogue Hack Expert Writers Use to Hook You"
 * **Direct Video URL**: https://www.youtube.com/watch?v=30Ic686MRZU
+
 ---
 
 ## Overview
