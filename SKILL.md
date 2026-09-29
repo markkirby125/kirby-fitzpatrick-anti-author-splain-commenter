@@ -1,6 +1,6 @@
 ---
 name: kirby-fitzpatrick-anti-author-splain-commenter
-description: "Purge apologetic self-justification, intent guessing, and patronizing tone from diffs." Use this when working on fitzpatrick anti author splain commenter.
+description: "Purge apologetic self-justification, intent guessing, and patronizing tone from diffs. Use this when working on fitzpatrick anti author splain commenter."
 category: "Writing & Communication"
 triggers:
   - "anti author splain"
